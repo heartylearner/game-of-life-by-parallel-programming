@@ -8,7 +8,7 @@ a11 a12 .... a1n
 .
 am1 ........ amn
 with aij belong to {'.','O'}
-ex:
+ex:  
 3 5 4  
 O..O.  
 O....  
